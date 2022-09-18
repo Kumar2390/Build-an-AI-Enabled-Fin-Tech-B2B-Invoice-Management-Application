@@ -1,0 +1,27 @@
+.logo-flex{
+ display: grid;
+ grid-template-columns: auto auto auto;
+ background: transparent radial-gradient(closest-side at 50% 50%, #58687E 0%, #39495E 100%) 0% 0%;
+ font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ font: normal normal normal 20px/24px Ubuntu;
+ letter-spacing: 0.29px;
+}
+.logo-item{
+ width: 350px;
+ align-items: left;
+ padding-left: 10px;
+}
+.hrc-logo-item{
+ width: 90px;
+ align-items: left;
+ padding-top: 15px;
+}
+
+.invoice-list{
+ margin-top: 25px ;
+ font-size: 28px;
+ color: rgb(255 255 255);
+ margin-left: 10px;
+ padding-bottom: 5px;
+ width: 247px;
+}

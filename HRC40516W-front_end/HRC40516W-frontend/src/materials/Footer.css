@@ -1,0 +1,14 @@
+.text-footer {
+ text-align: center;
+ padding: 30px 0;
+ font-family: 'Ubuntu', sans-serif;
+ display: flex;
+ justify-content: center;
+ color: white !important;
+ background-color: #294054; 
+}
+
+a:visited {
+ color: rgb(6, 6, 64);
+ background-color: transparent;
+}

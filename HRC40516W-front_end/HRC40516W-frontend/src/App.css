@@ -1,0 +1,100 @@
+body{
+  margin: 0%;
+  background-color: #233a4e;
+}
+
+.flex-parent{
+  display: flex;
+}
+
+.flex-child{
+  flex: 1;
+}
+
+.flex-child:first-child{
+  margin-right: 20px;
+}
+
+.col1{
+  display: flex;
+}
+
+.col2{
+  flex: 1;
+}
+
+.col2:first-child{
+  margin-right: 20px;
+}
+
+.Dialog{
+  background-color: #31506c;
+  color: white;
+}
+
+.textinput{
+  background-color: white;
+}
+
+.align{
+  margin-top: 1%;
+  margin-left: 1%;
+  display: flex;
+  flex-direction: row;
+}
+
+.colour{
+  color: white;
+}
+
+.last{
+  color: white !important;
+  width: 50%;
+  border-color: white !important;
+}
+
+.size{
+  width: 200px;
+  color: white !important;
+}
+
+.sizes{
+  width: 200px;
+  color: white !important;
+  background-color: aqua !important;
+}
+
+.refresh{
+  margin-left: 10px !important;
+  width: 62px;
+  height: 40px;
+}
+
+.search{
+  margin-left: 10px !important;
+  background-color: white;
+}
+
+.searchbutton{
+  margin-top: -8px;
+}
+
+.row{
+  display: flex;
+  flex-direction: row;
+}
+
+.r1{
+  margin-right: 20px;
+}
+
+.Size{
+  width: 165px;
+  margin-left: 100px !important;
+  color: white !important;
+}
+
+.Sizes {
+  width: 165px;
+  color: white !important;
+}
